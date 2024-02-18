@@ -80,8 +80,10 @@ form input{
 }
 
 .select-container select{
+    text-align: center;
     font-size: 1rem;
-    width: auto;
+    width:auto;
+    padding: 3px;
 }
 
 .msg{
@@ -97,6 +99,7 @@ form button{
     font-weight: bold;
 
 }
+
 
 
 
